@@ -1,19 +1,20 @@
 //
-//  ViewController.swift
+//  TabBatConroller.swift
 //  TestProject
 //
-//  Created by Andrew Dobrelya on 29.06.2022.
+//  Created by Andrew Dobrelya on 03.07.2022.
 //
 
 import UIKit
 
-class ViewController: UIViewController {
+
+class TabBarController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+   
         // Do any additional setup after loading the view.
     }
 
 
 }
-
